@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1553342444 source:d:\codeblocks\astar\main.cpp
+	<stdio.h>
+	<string.h>
+	"astar.h"
+	<math.h>
+	<stdlib.h>
+
+1553342444 d:\codeblocks\astar\astar.h
+
